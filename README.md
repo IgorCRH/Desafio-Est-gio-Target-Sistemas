@@ -3,12 +3,12 @@
 Para estas, a linguagem escolhida foi Java
 
 ### 1.
-[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/tree/main/Q1)
+[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/blob/main/Q1/Main.java)
 
 Ao final do processamento, o valor da variável SOMA será 91, pois K será incrementado em 1 até que atinja o valor de INDICE, que é 13, e adiciona este valor a variável SOMA, que soma todos os números inteiros de 1 a 13, totalizando 91.
 
 ### 2.
-[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/tree/main/Q2)
+[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/blob/main/Q2/CalculaFibonacci.java)
 
 ### 3.
 
@@ -32,4 +32,4 @@ o que a controla, se a lâmpada estiver apagada, é o interruptor desligado que 
 que a controla.
 
 ### 5.
-[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/tree/main/Q5)
+[Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/blob/main/Q5/Main.java)
