@@ -5,9 +5,7 @@ Para estas, a linguagem escolhida foi Java
 ### 1.
 [Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/tree/main/Q1)
 
-Ao final do processamento, o valor da variável SOMA será 91, pois K será incrementado em 1 até que atinja o valor de INDICE, que é 13, e adiciona este valor a variável SOMA, que soma todos os 
-
-números inteiros de 1 a 13, totalizando 91.
+Ao final do processamento, o valor da variável SOMA será 91, pois K será incrementado em 1 até que atinja o valor de INDICE, que é 13, e adiciona este valor a variável SOMA, que soma todos os números inteiros de 1 a 13, totalizando 91.
 
 ### 2.
 [Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/tree/main/Q2)
