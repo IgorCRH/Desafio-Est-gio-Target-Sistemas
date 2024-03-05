@@ -33,3 +33,4 @@ que a controla.
 
 ### 5.
 [Solução](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/blob/main/Q5/Main.java)
+[Resultado Teste](https://github.com/IgorCRH/Desafio-Est-gio-Target-Sistemas/blob/main/Q5/README.md)
